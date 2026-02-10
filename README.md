@@ -6,7 +6,8 @@
 <img width="1280" height="710" alt="website1" src="https://github.com/user-attachments/assets/2ae2915a-fd2d-4e66-aae1-36b8f2542204" />
 # 🚀 RobotAI - 3D Animated Website Template  
 
-![RobotAI Preview](https://github.com/bhalkesachin832024/RobotAI-3DAnimated-Website-Template/blob/350daf459a4cec9d75296783b750b5129895c1db/assets/imgs/website.png)  
+![RobotAI Preview](https://github.com/bhalkesachin832024/RobotAI-3DAnimated-Website-Template/blob/<img width="1280" height="711" alt="website" src="https://github.com/user-attachments/assets/476f5b43-19cf-4856-9373-e0cad313d2b2" />
+)  
 
 **RobotAI** is a futuristic **3D animated** front-end website template designed to provide a unique and immersive user experience. It is fully responsive, ensuring compatibility across all devices, and built with modern web technologies to deliver high performance and smooth animations.  
 
@@ -31,7 +32,8 @@
 
 ## 📸 Screenshots  
 
-![RobotAI Preview](https://github.com/bhalkesachin832024/RobotAI-3DAnimated-Website-Template/blob/350daf459a4cec9d75296783b750b5129895c1db/assets/imgs/website1.png) 
+![RobotAI Preview](https://github.com/bhalkesachin832024/RobotAI-3DAnimated-Website-Template/blob/<img width="1280" height="711" alt="website" src="https://github.com/user-attachments/assets/6a66f459-0511-4b0d-82b8-c588c1c0f3a5" />
+) 
 
 ## 🚀 Live Demo  
 
