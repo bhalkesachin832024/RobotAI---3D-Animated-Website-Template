@@ -1,0 +1,15 @@
+title: RobotAI - 3D Animated Website
+description: A 3D animated website template
+theme: jekyll-theme-primer
+exclude:
+  - Script.js
+  - Style.css
+  - main.css
+  - CEO.png
+  - website.png
+  - website1.png
+  - CGPT*.png
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
