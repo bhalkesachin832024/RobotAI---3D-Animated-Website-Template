@@ -1,6 +1,6 @@
 # 🚀 RobotAI - 3D Animated Website Template  
 
-![RobotAI Preview](https://github.com/AHMAD-JX/RobotAI-3DAnimated-Website-Template/blob/350daf459a4cec9d75296783b750b5129895c1db/assets/imgs/website.png)  
+![RobotAI Preview](https://github.com/bhalkesachin832024/RobotAI-3DAnimated-Website-Template/blob/350daf459a4cec9d75296783b750b5129895c1db/assets/imgs/website.png)  
 
 **RobotAI** is a futuristic **3D animated** front-end website template designed to provide a unique and immersive user experience. It is fully responsive, ensuring compatibility across all devices, and built with modern web technologies to deliver high performance and smooth animations.  
 
@@ -25,7 +25,7 @@
 
 ## 📸 Screenshots  
 
-![RobotAI Preview](https://github.com/AHMAD-JX/RobotAI-3DAnimated-Website-Template/blob/350daf459a4cec9d75296783b750b5129895c1db/assets/imgs/website1.png) 
+![RobotAI Preview](https://github.com/bhalkesachin832024/RobotAI-3DAnimated-Website-Template/blob/350daf459a4cec9d75296783b750b5129895c1db/assets/imgs/website1.png) 
 
 ## 🚀 Live Demo  
 
@@ -37,7 +37,7 @@ To run the project locally, follow these steps:
 
 ```sh
 # Clone the repository
-git clone https://github.com/AHMAD-JX/RobotAI-3DAnimated-Website-Template.git
+git clone https://github.com/bhalkesachin832024/RobotAI-3DAnimated-Website-Template.git
 
 # Navigate to the project folder
 cd RobotAI-3DAnimated-Website-Template
